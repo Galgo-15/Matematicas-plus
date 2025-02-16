@@ -114,7 +114,7 @@ const LessonContent: React.FC<LessonContentProps> = ({
         </div>
 
         <div className="mb-8">
-          <h3 className="text-xl font-semibold text-gray-800 mb-3">Coneptos</h3>
+          <h3 className="text-xl font-semibold text-gray-800 mb-3">Conceptos</h3>
           <div className="bg-gray-50 p-4 rounded-lg">
             <p className="text-gray-700 whitespace-pre-line">{theory}</p>
           </div>
